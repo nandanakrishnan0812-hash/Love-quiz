@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy 4th Anniversary My Love ❤️</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="loading">
+    <h2>❤️ Loading a Special Surprise for Abhishek... ❤️</h2>
+</div>
+
+<div class="welcome">
+    <h1>❤️ Happy 4th Anniversary My Love ❤️</h1>
+
+    <h3>Made with Love by Nandana 💖</h3>
+
+    <button id="startBtn">Start Quiz ❤️</button>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html># Love-quiz
