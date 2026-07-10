@@ -56,12 +56,12 @@ question: "12. What is the most beautiful part of our love story? ✨",
 options: ["Every moment ❤️", "Our memories 💕", "Our trust 🤝", "Everything 🥰"]
 },
 {
-question: "13. How many years have we loved each other? 💖",
-options: ["4 Years ❤️", "Forever ♾️", "Just started 😂", "100 Years 🤣"]
+question: "13. who is more caring ? ⚡",
+options: ["Nandana 😝", "Abhishek 🥰", "Always abhishek 🥹"]
 },
 {
 question: "14. Who is my forever person? 💍",
-options: ["You ❤️", "Always You 🥹", "Forever ❤️", "My Home 🏡"]
+options: ["You ❤️", "Always You 🥹", "Nandana 😁"]
 },
 {
 question: "15. Will you stay with me forever? ♾️❤️",
