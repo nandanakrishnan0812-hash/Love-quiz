@@ -121,7 +121,7 @@ document.body.innerHTML = `
 <h1>❤️ Happy 4th Anniversary ❤️</h1>
 
 <h2>Four years down,<br>forever to go. ♾️❤️</h2>
-<img src="photo.jpg"
+<img src="4cccc5e8-4016-438f-8632-db640b905dfb.png"
 style="width:220px;
 border-radius:20px;
 margin:25px 0;
