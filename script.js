@@ -9,15 +9,15 @@ const nextBtn = document.getElementById("nextBtn");
 const quizData = [
 {
 question: "1. Who is the cutest in this relationship? ❤️",
-options: ["Abhishek 😎", "Nandana 😍", "Both 😂", "The camera 📸"]
+options: ["Abhishek 😎", "Nandana 😍", "option B 😂", "The camera 📸"]
 },
 {
-question: "2. When did we first meet? 💕",
-options: ["First glance 😍", "Like destiny ❤️", "I don't remember 😂", "Secret 🤫"]
+question: "2. Will you marry me one day ? 🙈💕",
+options: ["yes 😍", "option A ❤️", "opposite of No 😂", "option B 🥳"]
 },
 {
 question: "3. Who is the luckiest person in this relationship? 🍀",
-options: ["Abhishek ❤️", "Nandana ❤️", "Both 💕", "Destiny ✨"]
+options: ["Abhishek ❤️", "Nandana ❤️", "Both 💕"]
 },
 {
 question: "4. How many years have we loved each other? ❤️",
@@ -60,7 +60,7 @@ question: "13. who is more caring ? ⚡",
 options: ["Nandana 😝", "Abhishek 🥰", "Always abhishek 🥹"]
 },
 {
-question: "14. Who is my forever person? 💍",
+question: "14. Who is your forever person? 💍",
 options: ["You ❤️", "option A 🥹", "Nandana 😁"]
 },
 {
