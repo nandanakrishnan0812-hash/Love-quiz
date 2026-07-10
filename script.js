@@ -6,7 +6,25 @@ const question = document.getElementById("question");
 const answers = document.getElementById("answers");
 const nextBtn = document.getElementById("nextBtn");
 
-const quizData = [{
+const quizData = [
+{
+question: "1. Who is the cutest in this relationship? ❤️",
+options: ["Abhishek 😎", "Nandana 😍", "Both 😂", "The camera 📸"]
+},
+{
+question: "2. When did we first meet? 💕",
+options: ["First glance 😍", "Like destiny ❤️", "I don't remember 😂", "Secret 🤫"]
+},
+{
+question: "3. Who is the luckiest person in this relationship? 🍀",
+options: ["Abhishek ❤️", "Nandana ❤️", "Both 💕", "Destiny ✨"]
+},
+{
+question: "4. How many years have we loved each other? ❤️",
+options: ["4 Years 💖", "Forever ♾️", "Just Started 😂", "100 Years 😆"]
+}
+];
+{
 question: "5. Who says 'I love you' more? 😘",
 options: ["Me ❤️", "You ❤️", "Both 😍", "Every day 😂"]
 },
@@ -50,24 +68,6 @@ options: ["You ❤️", "Always You 🥹", "Forever ❤️", "My Home 🏡"]
 question: "15. Will you stay with me forever? ♾️❤️",
 options: ["Yes, Forever ❤️", "Always 💖", "Every Lifetime 🥰", "Without a Doubt ❤️"]
 }
-{
-question: "1. Who is the cutest in this relationship? ❤️",
-options: ["Abhishek 😎", "Nandana 😍", "Both 😂", "The camera 📸"]
-},
-{
-question: "2. When did we first meet? 💕",
-options: ["First glance 😍", "Like destiny ❤️", "I don't remember 😂", "Secret 🤫"]
-},
-{
-question: "3. Who is the luckiest person in this relationship? 🍀",
-options: ["Abhishek ❤️", "Nandana ❤️", "Both 💕", "Destiny ✨"]
-},
-{
-question: "4. How many years have we loved each other? ❤️",
-options: ["4 Years 💖", "Forever ♾️", "Just Started 😂", "100 Years 😆"]
-}
-];
-
 let current = 0;
 
 startBtn.onclick = () => {
