@@ -6,7 +6,50 @@ const question = document.getElementById("question");
 const answers = document.getElementById("answers");
 const nextBtn = document.getElementById("nextBtn");
 
-const quizData = [
+const quizData = [{
+question: "5. Who says 'I love you' more? 😘",
+options: ["Me ❤️", "You ❤️", "Both 😍", "Every day 😂"]
+},
+{
+question: "6. Who gets jealous first? 😅",
+options: ["Me 🤭", "You 🤭", "Both 😂", "No one 😇"]
+},
+{
+question: "7. Who gets angry first? 😤",
+options: ["Me 😅", "You 😅", "Depends 🤣", "Nobody ❤️"]
+},
+{
+question: "8. Who apologizes first after a fight? 🤗",
+options: ["Me ❤️", "You ❤️", "Both 🥰", "Who remembers? 😂"]
+},
+{
+question: "9. Who misses the other more? 🥺",
+options: ["Me ❤️", "You ❤️", "Both 💞", "Every second 😭"]
+},
+{
+question: "10. Who is more romantic? 🌹",
+options: ["Me 😍", "You 😍", "Both ❤️", "Secret 🤫"]
+},
+{
+question: "11. Who gives the sweetest hugs? 🤍",
+options: ["Me 🤗", "You 🤗", "Both 🥹", "Can't choose ❤️"]
+},
+{
+question: "12. What is the most beautiful part of our love story? ✨",
+options: ["Every moment ❤️", "Our memories 💕", "Our trust 🤝", "Everything 🥰"]
+},
+{
+question: "13. How many years have we loved each other? 💖",
+options: ["4 Years ❤️", "Forever ♾️", "Just started 😂", "100 Years 🤣"]
+},
+{
+question: "14. Who is my forever person? 💍",
+options: ["You ❤️", "Always You 🥹", "Forever ❤️", "My Home 🏡"]
+},
+{
+question: "15. Will you stay with me forever? ♾️❤️",
+options: ["Yes, Forever ❤️", "Always 💖", "Every Lifetime 🥰", "Without a Doubt ❤️"]
+}
 {
 question: "1. Who is the cutest in this relationship? ❤️",
 options: ["Abhishek 😎", "Nandana 😍", "Both 😂", "The camera 📸"]
