@@ -112,5 +112,4 @@ style="margin-top:30px;padding:15px 30px;font-size:20px;border:none;border-radiu
 `;
 
 }
-}
 };
