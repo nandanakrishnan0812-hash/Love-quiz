@@ -25,15 +25,15 @@ options: ["4 Years 💖", "Forever ♾️", "Just Started 😂", "100 Years 😆
 },
 {
 question: "5. Who says 'I love you' more? 😘",
-options: ["Me ❤️", "You ❤️", "Both 😍", "Every day 😂"]
+options: ["Abhishek ❤️", "Nandana ❤️", "Both 😍", "Every day 😂"]
 },
 {
 question: "6. Who gets jealous first? 😅",
-options: ["Me 🤭", "You 🤭", "Both 😂", "No one 😇"]
+options: ["Nandana 🤭", "Abhishek 🤭", "Both 😂", "No one 😇"]
 },
 {
 question: "7. Who gets angry first? 😤",
-options: ["Me 😅", "You 😅", "Depends 🤣", "Nobody ❤️"]
+options: ["Abhishek 😅", "Nandana 😅", "Depends 🤣", "option A ❤️"]
 },
 {
 question: "8. Who apologizes first after a fight? 🤗",
@@ -52,8 +52,8 @@ question: "11. Who gives the sweetest hugs? 🤍",
 options: ["Me 🤗", "You 🤗", "Both 🥹", "Can't choose ❤️"]
 },
 {
-question: "12. What is the most beautiful part of our love story? ✨",
-options: ["Every moment ❤️", "Our memories 💕", "Our trust 🤝", "Everything 🥰"]
+question: "12. Who fell in love at first sight? ❤️‍🔥",
+options: ["Abhishek 🙈", "Nandana 👀", "Both 😜", "No one 🥲"]
 },
 {
 question: "13. who is more caring ? ⚡",
@@ -61,7 +61,7 @@ options: ["Nandana 😝", "Abhishek 🥰", "Always abhishek 🥹"]
 },
 {
 question: "14. Who is my forever person? 💍",
-options: ["You ❤️", "Always You 🥹", "Nandana 😁"]
+options: ["You ❤️", "option A 🥹", "Nandana 😁"]
 },
 {
 question: "15. Will you stay with me forever? ♾️❤️",
