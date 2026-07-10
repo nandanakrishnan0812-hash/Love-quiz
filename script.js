@@ -115,7 +115,7 @@ style="margin-top:30px;padding:15px 30px;font-size:20px;border:none;border-radiu
 };
 function showSurprise(){
 
-document.body.innerHTML = `
+document.body.innerHTML = `setInterval(createHeart, 500);
 <div style="height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#000;color:white;text-align:center;padding:20px;">
 
 <h1>❤️ Happy 4th Anniversary ❤️</h1>
