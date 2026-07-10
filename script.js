@@ -113,3 +113,20 @@ style="margin-top:30px;padding:15px 30px;font-size:20px;border:none;border-radiu
 
 }
 };
+function showSurprise(){
+
+document.body.innerHTML = `
+<div style="height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#000;color:white;text-align:center;padding:20px;">
+
+<h1>❤️ Happy 4th Anniversary ❤️</h1>
+
+<h2>Four years down,<br>forever to go. ♾️❤️</h2>
+
+<p style="font-size:20px;margin-top:20px;">
+Every moment with you is my favorite memory. 🥹💕
+</p>
+
+</div>
+`;
+
+}
