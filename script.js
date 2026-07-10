@@ -99,6 +99,6 @@ current++;
 if(current<quizData.length){
 showQuestion();
 }else{
-alert("❤️ Quiz Completed ❤️");
+
 }
 };
