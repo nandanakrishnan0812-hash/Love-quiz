@@ -99,6 +99,18 @@ current++;
 if(current<quizData.length){
 showQuestion();
 }else{
+document.body.innerHTML = `
+<div style="height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;background:#ffeff5;text-align:center;padding:20px;">
+<h1 style="color:#ff2d75;">🎉 Quiz Completed! 🎉</h1>
+<p style="font-size:22px;color:#444;">You unlocked a special surprise... ❤️</p>
 
+<button onclick="showSurprise()"
+style="margin-top:30px;padding:15px 30px;font-size:20px;border:none;border-radius:30px;background:#ff2d75;color:white;">
+🎁 Open My Surprise
+</button>
+</div>
+`;
+
+}
 }
 };
