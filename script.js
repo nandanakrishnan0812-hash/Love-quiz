@@ -22,8 +22,7 @@ options: ["Abhishek ❤️", "Nandana ❤️", "Both 💕", "Destiny ✨"]
 {
 question: "4. How many years have we loved each other? ❤️",
 options: ["4 Years 💖", "Forever ♾️", "Just Started 😂", "100 Years 😆"]
-}
-];
+},
 {
 question: "5. Who says 'I love you' more? 😘",
 options: ["Me ❤️", "You ❤️", "Both 😍", "Every day 😂"]
@@ -68,6 +67,8 @@ options: ["You ❤️", "Always You 🥹", "Forever ❤️", "My Home 🏡"]
 question: "15. Will you stay with me forever? ♾️❤️",
 options: ["Yes, Forever ❤️", "Always 💖", "Every Lifetime 🥰", "Without a Doubt ❤️"]
 }
+];
+
 let current = 0;
 
 startBtn.onclick = () => {
