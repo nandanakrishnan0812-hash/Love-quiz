@@ -153,3 +153,28 @@ function createHeart() {
 }
 
 setInterval(createHeart, 500);
+function showLetter() {
+document.body.innerHTML = `
+<div style="height:100vh;background:black;color:white;
+display:flex;flex-direction:column;
+justify-content:center;align-items:center;
+padding:30px;text-align:center;">
+
+<h1 style="color:#ff2d75;">💌 To My Forever ❤️</h1>
+
+<p style="font-size:22px;line-height:1.8;max-width:700px;">
+<strong>Four years, countless memories, one forever.</strong><br><br>
+
+Thank you for filling my life with love, laughter, and happiness.
+Every moment with you is a memory I'll always treasure.<br><br>
+
+<strong>I choose you today, tomorrow, and every day after that.</strong><br><br>
+
+❤️ I Love You Forever. ❤️♾️<br><br>
+
+— <b>With all my love,<br>Nandana ❤️</b>
+</p>
+
+</div>
+`;
+}
