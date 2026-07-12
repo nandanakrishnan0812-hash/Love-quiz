@@ -132,7 +132,10 @@ Every moment with you is my favorite memory. 🥹💕
 
 </div>
 `;
-
+<button onclick="showLetter()"
+style="margin-top:25px;padding:15px 35px;font-size:20px;border:none;border-radius:50px;background:#ff2d75;color:white;cursor:pointer;">
+💌 Read My Letter
+</button>
 }
 function createHeart() {
   const heart = document.createElement("div");
