@@ -129,13 +129,13 @@ box-shadow:0 0 20px #ff2d75;">
 <p style="font-size:20px;margin-top:20px;">
 Every moment with you is my favorite memory. 🥹💕
 </p>
-
-</div>
-`;
-<button onclick="showLetter()"
+button onclick="showLetter()"
 style="margin-top:25px;padding:15px 35px;font-size:20px;border:none;border-radius:50px;background:#ff2d75;color:white;cursor:pointer;">
 💌 Read My Letter
 </button>
+</div>
+`;
+<
 }
 function createHeart() {
   const heart = document.createElement("div");
